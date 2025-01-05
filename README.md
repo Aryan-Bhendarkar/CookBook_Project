@@ -3,7 +3,6 @@ Here we will get recipe of all cuisines with step-by-step Instructions
 
 A modern recipe finder web application built with HTML, CSS, and JavaScript, powered by the Tasty API.
 
-![TastyBites Screenshot](screenshot.png)
 ![Screenshot 2025-01-05 150955](https://github.com/user-attachments/assets/0f20a656-bc64-4397-8578-0d9b697146f7)
 
 ## 🌟 Features
@@ -32,8 +31,3 @@ Before you begin, ensure you have:
 - A RapidAPI account
 - Tasty API subscription (free tier available)
 
-## ⚙️ Setup and Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/tastybites.git
